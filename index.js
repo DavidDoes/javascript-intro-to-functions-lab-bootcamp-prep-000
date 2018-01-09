@@ -31,3 +31,5 @@ function sayHiToGrandma(string){
     return "I love you, too."
   }
 }
+
+var lowercase = "HELLO!".toLowerCase()
