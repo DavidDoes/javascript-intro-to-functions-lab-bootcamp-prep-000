@@ -32,6 +32,6 @@ function sayHiToGrandma(string){
   }
 }
 
-"Hello!".toLowerCase()
+sayHiToGrandma("Hey, Grandma!").toLowerCase()
 "hello!".toUpperCase()
 "HeY there, GrandMA"
