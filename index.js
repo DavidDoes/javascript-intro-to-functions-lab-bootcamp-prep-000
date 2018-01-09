@@ -32,6 +32,6 @@ function sayHiToGrandma(string){
   }
 }
 
-var lowercase = "hello!"
+var lowercase = "Hello!".toLowerCase()
 var uppercase = "HELLO!"
 var mixedCase = "Hi there!"
